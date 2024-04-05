@@ -1,0 +1,5 @@
+﻿  MathLibrary.cpp
+C:\Users\angelvintos\source\repos\libreria1\libreria1\MathLibrary.cpp(6,30): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\angelvintos\source\repos\libreria1\libreria1\MathLibrary.cpp(7,29): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\angelvintos\source\repos\libreria1\libreria1\MathLibrary.cpp(53,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  libreria1.vcxproj -> C:\Users\angelvintos\source\repos\libreria1\x64\Debug\libreria1.lib

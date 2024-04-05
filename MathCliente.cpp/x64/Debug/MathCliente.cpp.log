@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (MathCliente.cpp.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+MathCliente.obj : error LNK2019: símbolo externo "public: static double __cdecl MathLibrary::Arithmetic::Add(double,double)" (?Add@Arithmetic@MathLibrary@@SANNN@Z) sin resolver al que se hace referencia en la función main
+MathCliente.obj : error LNK2019: símbolo externo "public: static double __cdecl MathLibrary::Arithmetic::Subtract(double,double)" (?Subtract@Arithmetic@MathLibrary@@SANNN@Z) sin resolver al que se hace referencia en la función main
+MathCliente.obj : error LNK2019: símbolo externo "public: static double __cdecl MathLibrary::Arithmetic::Multiply(double,double)" (?Multiply@Arithmetic@MathLibrary@@SANNN@Z) sin resolver al que se hace referencia en la función main
+MathCliente.obj : error LNK2019: símbolo externo "public: static double __cdecl MathLibrary::Arithmetic::Divide(double,double)" (?Divide@Arithmetic@MathLibrary@@SANNN@Z) sin resolver al que se hace referencia en la función main
+C:\Users\angelvintos\source\repos\libreria1\x64\Debug\MathCliente.exe : fatal error LNK1120: 4 externos sin resolver
